@@ -1,4 +1,4 @@
-- 👋 Hi, I’m jatin sareen
+- 👋 Hi, I’m JATIN SAREEN
 - 👀 I’m interested in machine learning, data science, dsa, coding(C++, Python), competitive programming
 - 🌱 I’m currently learning dsa
 - 💞️ I’m looking to collaborate on data science projects
