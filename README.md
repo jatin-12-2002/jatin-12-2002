@@ -23,8 +23,9 @@
 - Continue growing as a **Data Scientist** and contributing to the **AI community**.  
 
 ⚡ **Fun Fact**  
-- When I’m not coding, you’ll find me solving **programming challenges**, exploring **tech blogs**, or learning about new **AI trends**.  
+- When I’m not coding, you’ll find me solving **programming challenges**, exploring **tech blogs**, or learning about new **AI trends**.
 
+- 📫 How to reach me **sareenjatin002@gmail.com** 
 
 
 ## 🌐 Socials:
