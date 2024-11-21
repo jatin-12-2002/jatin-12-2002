@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jatin Sareen</h1>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+<div align="center">
+  <img src="https://your-gif-url.com/your-gif.gif" width="600" />
+</div>
 
 ✨ **About Me**  
 👋 Hi there! I’m **Jatin Sareen**, a passionate **Data Scientist** and **AI enthusiast** currently pursuing **B.Tech. in Computer Engineering** at **J.C. Bose University of Science & Technology, YMCA, Faridabad**.  
