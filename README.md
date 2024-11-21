@@ -1,5 +1,30 @@
-# 💫 About Me:
-✨ About Me<br>👋 Hi there! I’m Jatin Sareen, a passionate Data Scientist and AI enthusiast currently pursuing B.Tech. in Computer Engineering at J.C. Bose University of Science & Technology, YMCA, Faridabad.<br><br>💡 What I Do<br>I specialize in Machine Learning, Deep Learning, and Natural Language Processing, with hands-on experience in building scalable MLOps pipelines, deploying AI-driven applications, and solving real-world problems using cutting-edge technologies like Generative AI and Computer Vision.<br><br>🌱 What I’m Currently Working On<br>Building scalable end-to-end MLOps pipelines for real-world use cases.<br>Exploring advanced Retrieval-Augmented Generation (RAG) methods with LLMs like LLaMA and Mistral.<br>Enhancing workplace safety using Computer Vision and YOLOv8.<br><br>🤝 What I’m Looking to Collaborate On<br>Projects involving Generative AI, NLP, or MLOps.<br>Open-source initiatives that leverage AI for social good.<br>Research in AI explainability or efficient large model training.<br><br>🎯 My Goals<br>To create innovative AI solutions that solve impactful challenges in healthcare, education, and industry.<br>To continue growing as a Data Scientist and contribute to the AI community.<br><br>⚡ Fun Fact<br>When I’m not coding, you’ll find me solving programming challenges, exploring tech blogs, or learning about new AI trends.<br><br>
+<h1 align="center">Hi 👋, I'm Jatin Sareen</h1>
+
+✨ **About Me**  
+👋 Hi there! I’m **Jatin Sareen**, a passionate **Data Scientist** and **AI enthusiast** currently pursuing **B.Tech. in Computer Engineering** at **J.C. Bose University of Science & Technology, YMCA, Faridabad**.  
+
+💡 **What I Do**  
+- Specialize in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.  
+- Hands-on experience in building scalable **MLOps pipelines**.  
+- Deploying **AI-driven applications** and solving real-world problems using cutting-edge technologies like **Generative AI** and **Computer Vision**.  
+
+🌱 **What I’m Currently Working On**  
+- Building scalable **end-to-end MLOps pipelines** for real-world use cases.  
+- Exploring advanced **Retrieval-Augmented Generation (RAG)** methods with **LLMs** like LLaMA and Mistral.  
+- Enhancing workplace safety using **Computer Vision** and **YOLOv8**.  
+
+🤝 **What I’m Looking to Collaborate On**  
+- Projects involving **Generative AI**, **NLP**, or **MLOps**.  
+- Open-source initiatives that leverage **AI for social good**.  
+- Research in **AI explainability** or **efficient large model training**.  
+
+🎯 **My Goals**  
+- Create innovative **AI solutions** to solve impactful challenges in **healthcare**, **education**, and **industry**.  
+- Continue growing as a **Data Scientist** and contributing to the **AI community**.  
+
+⚡ **Fun Fact**  
+- When I’m not coding, you’ll find me solving **programming challenges**, exploring **tech blogs**, or learning about new **AI trends**.  
+
 
 
 ## 🌐 Socials:
